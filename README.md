@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 [https://sanitwasnik.github.io/SocialMediaLink/](https://sanitwasnik.github.io/SocialMediaLink/)
+- 👨‍💻 [https://sanitwasnik.github.io/SocialMediaLink/](https://portfolio-duiczsh2o-sanitwasnik.vercel.app/)
 
 - 💬 Ask me about **React, Node, Web dev, MERN stack**
 
